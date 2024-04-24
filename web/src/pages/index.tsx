@@ -4,7 +4,7 @@ import Table from "react-bootstrap/Table";
 import {Alert, Container} from "react-bootstrap";
 import {GetServerSideProps, GetServerSidePropsContext} from "next";
 
-import { Pag, test } from "@/comps/Pag";
+import { Pag } from "@/comps/Pag";
 
 
 const inter = Inter({subsets: ["latin"]});
